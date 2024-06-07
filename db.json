@@ -7,16 +7,24 @@
     }
    
   ],
-   "lobbies": [
+  "lobbies": [
     {
       "id": "12345",
       "name": "Lobby 1",
-      "description": "This is the first lobby."
+      "description": "This is the first lobby.",
+      "players": [
+        {"name": "Player 1", "score": 100},
+        {"name": "Player 2", "score": 150}
+      ]
     },
     {
       "id": "67890",
       "name": "Lobby 2",
-      "description": "This is the second lobby."
+      "description": "This is the second lobby.",
+      "players": [
+        {"name": "Player A", "score": 200},
+        {"name": "Player B", "score": 250}
+      ]
     }
   ]
 }
