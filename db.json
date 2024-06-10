@@ -10,11 +10,12 @@
   "lobbies": [
     {
       "id": "12345",
+      "LiderID": "1716161234279",
       "name": "Lobby 1",
       "description": "This is the first lobby.",
       "players": [
-        {"name": "Player 1", "score": 100},
-        {"name": "Player 2", "score": 150}
+        {"name": "Player 1", "id": 1716161234279},
+        {"name": "Player 2", "id": 150}
       ]
     },
     {
