@@ -27,5 +27,7 @@
     }
   ],
   "health": [],
-  "lobbies": []
+  "lobbies": [],
+  "cartas": [],
+  "objetivos"
 }
