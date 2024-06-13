@@ -1,38 +1,48 @@
 {
-   "usuarios": [
+  "usuarios": [
     {
       "id": 1716161234279,
       "usuario": "admin",
       "senha": "123456"
-    }, {
+    },
+    {
       "id": 1716161234278,
       "usuario": "admin2",
       "senha": "1234"
-    }
-   
-  ],
-    "health": [
-
-  ],
-  "lobbies": [
-    {
-      "id": "12345",
-      "LiderID": "1716161234279",
-      "name": "Lobby 1",
-      "description": "This is the first lobby.",
-      "players": [
-        {"name": "Player 1", "id": 1716161234279},
-        {"name": "Player 2", "id": 150}
-      ]
     },
     {
-      "id": "67890",
-      "name": "Lobby 2",
-      "description": "This is the second lobby.",
-      "players": [
-        {"name": "Player A", "score": 200},
-        {"name": "Player B", "score": 250}
-      ]
+      "id": 1718212495452,
+      "usuario": "jota",
+      "senha": "1234"
+    },
+    {
+      "id": 1718212901437,
+      "usuario": "jota1",
+      "senha": "1234"
+    },
+    {
+      "id": 1718212938560,
+      "usuario": "jota2",
+      "senha": "1234"
+    }
+  ],
+  "health": [],
+  "lobbies": [
+    {
+      "lobbyId": "1718294010673",
+      "leaderId": "admin",
+      "lobbyName": "Lobby de admin",
+      "playerSlots": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": "BL83mXy"
     }
   ]
 }
