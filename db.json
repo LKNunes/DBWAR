@@ -27,21 +27,5 @@
     }
   ],
   "health": [],
-  "lobbies": [
-    {
-      "id": "1718296642593",
-      "leaderId": "admin",
-      "lobbyName": "Lobby de admin",
-      "playerSlots": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  ]
+  "lobbies": []
 }
